@@ -20,4 +20,4 @@ b). 申请加入华为 Push 回执 QQ 群，便于后续联调功能以及沟通
 (3). 回执消息的API
 回执消息发生在系统检测到客户端有应答返回，并且有 CP 订阅了该应答结果的场景。华为Push平台和CP接收回执消息服务器使用HTTPS协议。
 
-详细的说明健[华为文档](https://developer.huawei.com/consumer/cn/service/hms/catalog/huaweipush_agent.html?page=hmssdk_huaweipush_devguide_server_agent#3.3 消息回执)。
+详细的说明健 [华为文档](https://developer.huawei.com/consumer/cn/service/hms/catalog/huaweipush_agent.html?page=hmssdk_huaweipush_devguide_server_agent)。
